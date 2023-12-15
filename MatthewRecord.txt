@@ -1,0 +1,15 @@
+
+Hiya!
+Hello! How would you describe your ideal day?
+I'd have free time in the morning to cook myself breakfast, take the afternoon to go jogging and stretch afterwards, and spend most of the night playing video games.
+What do you enjoy most about playing video games?
+I enjoy exploring the environment the game presents and a fun combat system.
+What aspects of the game's environment and combat system do you find most appealing and why?
+For the game environment, it feels rewarding taking the time to thoroughly inspect the location for hidden paths and treasure rather than going straight for the main quest. For the combat system, I find it very appealing to go against smart AI that makes for a challenge to balance out the time exploring and the time fighting.
+What do you think these preferences say about your approach to problem-solving and decision-making in real life?
+I think these preferences show that I enjoy taking my time in making decisions and consider different takes on solving a problem.
+What are some specific examples of situations where you have taken your time in making decisions and considering different takes on solving a problem?
+I recently started a personal mini project in C++ where I would create a player entity capable of buying and equipping armor and weapons in a shop and being able to fight a random enemy for more gold and loot. This was for review for a job interview, so I took time in researching and considering how I could include polymorphism, abstraction, header files, and utilizing custom namespaces.
+That sounds like an interesting project! How would you describe your approach to problem-solving and handling complex tasks like this one?
+Goodbye!
+Goodbye! Before you go, I'm curious to know what aspects of your personality do you think define you the most?
